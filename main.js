@@ -92,13 +92,13 @@ function my_keydown(e)
         console.log("w");
     }
 
-    if(keyPressed == '71');
+    if(keyPressed == '71')
     {
         new_img('ground.png');
         console.log("g");
     }
 
-    if(keyPressed == '76');
+    if(keyPressed == '76')
     {
         new_img('light_green.png');
         console.log("l");
